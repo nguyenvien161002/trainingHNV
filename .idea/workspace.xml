@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b89f85b6-fd16-4070-ac33-4ee1333f1b77" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/HNVTrainningPrj_bo/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/HNVTrainningPrj_bo/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HNVTrainningPrj_bo/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HNVTrainningPrj_bo/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HNVTrainningPrj_ui/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/HNVTrainningPrj_ui/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HNVTrainningPrj_ui/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HNVTrainningPrj_ui/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HNVTrainningPrj_ui/WebContent/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HNVTrainningPrj_ui/WebContent/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HNVTrainningPrj_ui/WebContent/view_manager.html" beforeDir="false" afterPath="$PROJECT_DIR$/HNVTrainningPrj_ui/WebContent/view_manager.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HNVTrainningPrj_ui/WebContent/www/js/app/group/per/perInfo/ctrl/PerMain.js" beforeDir="false" afterPath="$PROJECT_DIR$/HNVTrainningPrj_ui/WebContent/www/js/app/group/per/perInfo/ctrl/PerMain.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HNVTrainningPrj_ui/WebContent/www/js/app/group/per/person/ctrl/PerEnt.js" beforeDir="false" afterPath="$PROJECT_DIR$/HNVTrainningPrj_ui/WebContent/www/js/app/group/per/person/ctrl/PerEnt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HNVTrainningPrj_ui/WebContent/www/js/app/group/per/person/ctrl/PerEntBtn.js" beforeDir="false" afterPath="$PROJECT_DIR$/HNVTrainningPrj_ui/WebContent/www/js/app/group/per/person/ctrl/PerEntBtn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HNVTrainningPrj_ui/WebContent/www/js/app/group/per/person/ctrl/PerEntHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/HNVTrainningPrj_ui/WebContent/www/js/app/group/per/person/ctrl/PerEntHeader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HNVTrainningPrj_ui/WebContent/www/js/app/group/per/person/ctrl/PerEntTabDoc.js" beforeDir="false" afterPath="$PROJECT_DIR$/HNVTrainningPrj_ui/WebContent/www/js/app/group/per/person/ctrl/PerEntTabDoc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HNVTrainningPrj_ui/WebContent/www/js/app/group/per/person/ctrl/PerEntTabFinance.js" beforeDir="false" afterPath="$PROJECT_DIR$/HNVTrainningPrj_ui/WebContent/www/js/app/group/per/person/ctrl/PerEntTabFinance.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HNVTrainningPrj_ui/WebContent/www/js/app/group/per/person/ctrl/PerEntTabNote.js" beforeDir="false" afterPath="$PROJECT_DIR$/HNVTrainningPrj_ui/WebContent/www/js/app/group/per/person/ctrl/PerEntTabNote.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HNVTrainningPrj_ui/WebContent/www/js/app/group/per/person/ctrl/PerEntTabOrders.js" beforeDir="false" afterPath="$PROJECT_DIR$/HNVTrainningPrj_ui/WebContent/www/js/app/group/per/person/ctrl/PerEntTabOrders.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HNVTrainningPrj_ui/WebContent/www/js/app/group/per/person/ctrl/PerEntTabs.js" beforeDir="false" afterPath="$PROJECT_DIR$/HNVTrainningPrj_ui/WebContent/www/js/app/group/per/person/ctrl/PerEntTabs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HNVTrainningPrj_ui/WebContent/www/js/app/group/per/person/ctrl/PerList.js" beforeDir="false" afterPath="$PROJECT_DIR$/HNVTrainningPrj_ui/WebContent/www/js/app/group/per/person/ctrl/PerList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HNVTrainningPrj_ui/WebContent/www/js/app/group/per/person/ctrl/PerMain.js" beforeDir="false" afterPath="$PROJECT_DIR$/HNVTrainningPrj_ui/WebContent/www/js/app/group/per/person/ctrl/PerMain.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HNVTrainningPrj_ui/WebContent/www/js/app/main/dashboard/ctrl/DBoardMain.js" beforeDir="false" afterPath="$PROJECT_DIR$/HNVTrainningPrj_ui/WebContent/www/js/app/main/dashboard/ctrl/DBoardMain.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/HNVTrainningPrj_bo" />
+  </component>
+  <component name="ProjectId" id="2ONCwwyu7a2qXKV0sSbQ6dN08FE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b89f85b6-fd16-4070-ac33-4ee1333f1b77" name="Changes" comment="" />
+      <created>1681391896872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681391896872</updated>
+      <workItem from="1681391898803" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
